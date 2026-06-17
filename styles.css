@@ -1,0 +1,39 @@
+header{
+    text-align: center;
+}
+
+p,ul,ol{
+    font-size: 18px;
+    text-align: justify;
+}
+
+h4{
+    font-size: 18px;
+}
+
+.variante{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.info{
+    flex: 1;
+}
+
+footer{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+}
+
+.diagrama{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.datos{
+    text-align: center;
+    flex-direction: column;
+}
