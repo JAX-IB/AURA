@@ -29,8 +29,8 @@ h4 {
 .variante {
     display: flex;
     flex-direction: row;
-    justify-content: space-evenly;
     flex-wrap: wrap;
+    justify-content: flex-start;
     gap: 10px;
 }
 
